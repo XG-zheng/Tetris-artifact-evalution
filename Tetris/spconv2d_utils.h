@@ -16,9 +16,6 @@
 
 // #define SPCONV2D_DEBUG_FLAG
 
-#define REORDER_OUT_CHANNEL
-#define BANK_OPTIMIZE
-
 constexpr int BIT_S = 3;
 constexpr int BIT_R = 3;
 
